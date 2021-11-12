@@ -2,3 +2,6 @@ url: "https://justgetwet.github.io"
 baseurl: "/redshot"
 title: "red shot"
 github_username: "Akira"
+
+# theme: "redshot"
+# remote_theme: justgetwet/redshot
