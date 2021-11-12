@@ -1,5 +1,7 @@
 require "fileutils"
 
+p Dir.glob("vendor/ruby/2.7.0/bundler/gems/*)
+
 ["_config.yml", "index.md", "404.md"].each{|filename|
   path = "vendor/ruby/2.7.0/bundler/gems/redshot-*/" + filename
   FileUtils.cp(Dir.glob(path)[0], filename)
