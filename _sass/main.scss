@@ -90,6 +90,7 @@ footer {
   // margin-top: $spacing-2;
   margin-left: $spacing-2;
   .footer-line {
+    margin-left: $spacing-1;
     display: flex;
     align-items: center;
     a {
@@ -240,6 +241,7 @@ code {
 pre {
   padding-left: $spacing-2;
   padding-top: $spacing-2;
+  padding-bottom: $spacing-1;
   overflow-x: scroll;
   font-family: $codeFont;
   background: $codeColor;
