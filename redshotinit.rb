@@ -14,13 +14,13 @@ FileUtils.mkdir_p("#{posts}") unless File.exists?("#{posts}")
 =begin
 docs/_site
 docs/.jekyll-cache
-docs/vendor/bundle/ruby/2.7.0/bin
-docs/vendor/bundle/ruby/2.7.0/build_info
-docs/vendor/bundle/ruby/2.7.0/cache
-docs/vendor/bundle/ruby/2.7.0/doc
-docs/vendor/bundle/ruby/2.7.0/extensions
-docs/vendor/bundle/ruby/2.7.0/gems
-docs/vendor/bundle/ruby/2.7.0/specifications
+docs/vendor/ruby/2.7.0/bin
+docs/vendor/ruby/2.7.0/build_info
+docs/vendor/ruby/2.7.0/cache
+docs/vendor/ruby/2.7.0/doc
+docs/vendor/ruby/2.7.0/extensions
+docs/vendor/ruby/2.7.0/gems
+docs/vendor/ruby/2.7.0/specifications
 =end
 
 # .gitmodules
