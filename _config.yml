@@ -3,5 +3,5 @@ baseurl: "/redshot"
 title: "red shot"
 github_username: "Akira"
 
-# theme: "redshot"
+# theme: redshot
 # remote_theme: justgetwet/redshot
